@@ -155,7 +155,7 @@ x_i = b_j, если переменная x_i находится в базисе;
 
 Вывод из консоли при результате выполнения работы на ЯП Питон и солвера в Excel:
 
-![Python](СнимокЭкрана1.png)
+![Python](https://github.com/may-na/Met_Opt/blob/main/Вывод%20VScode.png)
 ![Excel](https://github.com/may-na/Met_Opt/blob/main/Вывод%20Excel.png)
 
 # Рефлективный вывод
